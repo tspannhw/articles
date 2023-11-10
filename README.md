@@ -13,6 +13,8 @@ https://medium.com/cloudera-inc/no-code-sentiment-analysis-with-hugging-face-and
 
 https://dzone.com/articles/real-time-analytics-1
 
+https://dzone.com/articles/what-is-a-modern-developer
+
 https://medium.com/cloudera-inc/watching-airport-traffic-in-real-time-32c522a6e386
 
 
@@ -53,4 +55,17 @@ https://www.datainmotion.dev/2020/12/my-year-in-review-2020.html
 https://blog.cloudera.com/integrating-machine-learning-models-into-your-big-data-pipelines-in-real-time-with-no-coding/
 
 https://dzone.com/articles/modern-apache-nifi-load-balancing
+
+
+#### 2018
+
+
+https://community.cloudera.com/t5/Community-Articles/Ingesting-and-Analyzing-Street-Camera-Data-from-Major-US/ta-p/249194
+
+https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2018/ta-p/249363
+
+
+#### 2017
+
+https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2017/ta-p/247541
 
